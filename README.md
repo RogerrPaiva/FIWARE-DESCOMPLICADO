@@ -1,13 +1,4 @@
 # Smart Lamp com FIWARE Descomplicado, ESP32 e MQTT
-
-## Integrantes
-
-| Nome | RM |
-|------|----|
-| Roger De Carvalho Paiva |566949 |
-|Pedro Henrique Tavares Viana | 567680 |
-| David Ernesto Mogollon Gama | 566949 |
-
 ---
 
 ## Descrição do Projeto
@@ -112,7 +103,17 @@ O funcionamento do sistema ocorre da seguinte forma:
 5. O usuário valida o comportamento do sistema observando as respostas e os valores atualizados.
 
 ---
+## Integrantes
 
+| Nome | RM |
+|------|----|
+| Roger De Carvalho Paiva |566949 |
+|Pedro Henrique Tavares Viana | 567680 |
+| David Ernesto Mogollon Gama | 566949 |
+
+
+Tutorial no youtube: https://youtu.be/11VGu5MmitE
+---
 ## Fluxo de Comunicação
 
 ```text
