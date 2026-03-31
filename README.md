@@ -112,7 +112,6 @@ O funcionamento do sistema ocorre da seguinte forma:
 | David Ernesto Mogollon Gama | 566949 |
 
 ### Para mais informações acesse: https://youtu.be/11VGu5MmitE
----
 ### Codigo do Wokwi: https://wokwi.com/projects/459566050003197953
 ---
 ###Fluxo de Comunicação
